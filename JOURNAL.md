@@ -45,4 +45,4 @@ Time: 22 minutes in the code editor writing the README and BOM/CPL, maybe an hou
 
 Several of the things I had to fix would have been fixed if I had remembered to commit and push the files to GitHub, but I forgot to do that. I also needed to create this file, add EasyEDA source files (which I didn't know you could export), and "Make the PCB art nicer."
 
-Time: 50 min writing this (hackatime tracked) and probably around 45 minutes in EasyEDA editing the PCB art, and 15 minutes reexporting the files and getting the JLCPCB cart set up to make sure thr price is the same.
+Time: 50 min writing this (hackatime tracked) and probably around 45 minutes in EasyEDA editing the PCB art, and 15 minutes reexporting the files and getting the JLCPCB cart set up to make sure the price is the same.
