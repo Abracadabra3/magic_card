@@ -15,6 +15,8 @@ After I got that figured out, the tutorial was very well written and it was easy
 
 Time: I don't know for sure, but probably 1 hour is a safe guess including time finding the tutorial.
 
+<img src="images/schematic.png" alt="schematic" style="width:50%; height: auto;">
+
 # August 19: Made the PCB
 
 Yes, this is the same day, but I'm kind of breaking this up like you would with devlogs in Stardance to make it easier to read.
@@ -24,6 +26,9 @@ The tutorial was still well written for creating the PCB, and I was able to crea
 A fun part was seeing all the different finishes the tutorial mentioned being able to put on the PCB, like silkscreen, silver/gold, texture, and translucent by changing what layers you place decorations on.
 
 Time: I did track this with Lapse, so I know it was 47 minutes.
+
+<img src="images/pcb_old.png" alt="PCB" style="width:50%; height: auto;">
+
 
 # Still August 19: Prepare GitHub repo and
 
@@ -41,8 +46,12 @@ I submitted the form for Speedrun, but I forgot to commit and push the new files
 
 Time: 22 minutes in the code editor writing the README and BOM/CPL, maybe an hour not in the code editor? I forgot to track it again.
 
+<img src="images/colorandtexture.png" alt="Color and texture chart key" style="width: 75%; height: auto;">
+
 # August 20: Feedback from the form
 
-Several of the things I had to fix would have been fixed if I had remembered to commit and push the files to GitHub, but I forgot to do that. I also needed to create this file, add EasyEDA source files (which I didn't know you could export), and "Make the PCB art nicer."
+Several of the things I had to fix would have been fixed if I had remembered to commit and push the files to GitHub, but I forgot to do that. I also needed to create this file, add EasyEDA source files (which I didn't know you could export), and "make the PCB art nicer."
 
 Time: 50 min writing this (hackatime tracked) and probably around 45 minutes in EasyEDA editing the PCB art, and 15 minutes reexporting the files and getting the JLCPCB cart set up to make sure the price is the same.
+
+<img src="images/pcb.png" alt="PCB" style="width; 50%; height: auto;">
